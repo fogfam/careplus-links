@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "5UT657SD22.com.fogartyqsrsolutions.repairflow"
+        ],
+        "components": [
+          {
+            "/": "/repairflow/equipment/",
+            "?": {
+              "id": "*"
+            },
+            "comment": "RepairFlow equipment links"
+          }
+        ]
+      }
+    ]
+  }
+}
